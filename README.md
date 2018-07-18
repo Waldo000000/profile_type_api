@@ -40,7 +40,7 @@ curl -X POST \
 
 ## Requirements
 
-First, [download the trained classification model](https://drive.google.com/file/d/1EWrjN9o3F53An2jmP62Xctt1Zdl5vnYu/view) and place it in the root directory of this repository as `./clf.pkl`.
+First, [download the trained classification model](https://drive.google.com/file/d/1EWrjN9o3F53An2jmP62Xctt1Zdl5vnYu/view) [sorry, this is not publicly available] and place it in the root directory of this repository as `./clf.pkl`.
 
 ### Running locally
 
